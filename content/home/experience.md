@@ -22,24 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research Assistant Professor
+    company: BIO5 Institute
+    company_url: 'https://bio5.arizona.edu'
+    location: Arizona
+    date_start: '2019-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research
+        * Training
+        * Project Management
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Science Analyst
+    company: CyVerse
+    company_url: 'https://cyverse.org'
+    location: Arizona
+    date_start: '2016-09-01'
+    date_end: '2019-08-31'
+    description: Science Informatician with CyVerse.
+
+  - title: Associate Research Scientist
+    company: University of Arizona
+    company_url: 'https://snre.arizona.edu'
+    location: Arizona
+    date_start: '2016-09-01'
+    date_end: '2019-08-31'
+    description: Remote Sensing and Ecohydrology
+    
+   - title: Postdoctoral Researcher
+    company: University of Arizona
+    company_url: 'https://geo.arizona.edu'
+    location: Arizona
+    date_start: '2014-01-01'
+    date_end: '2016-08-31'
+    description: Biogeosciences, Critical Zone Observatories.
+    
+   - title: Fire Management Specialist
+    company: USDA Forest Service, Coronado National Forest Supervisor's office
+    company_url: 'https://www.fs.usda.gov/coronado'
+    location: Arizona
+    date_start: '2008-03-01'
+    date_end: '2012-08-31'
+    description: PhD Student Temporary Experience Program, Coronado National Forest. 
+    
 ---
