@@ -51,15 +51,15 @@ experience:
     date_end: '2019-08-31'
     description: Remote Sensing and Ecohydrology
     
-   - title: Postdoctoral Researcher
+  - title: Postdoctoral Researcher
     company: University of Arizona
     company_url: 'https://geo.arizona.edu'
     location: Arizona
     date_start: '2014-01-01'
     date_end: '2016-08-31'
     description: Biogeosciences, Critical Zone Observatories.
-    
-   - title: Fire Management Specialist
+   
+  - title: Fire Management Specialist
     company: USDA Forest Service, Coronado National Forest Supervisor's office
     company_url: 'https://www.fs.usda.gov/coronado'
     location: Arizona
